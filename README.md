@@ -68,6 +68,4 @@ Heya! I'm Le Giang Nam, a student currently living in Hanoi, VietNam. I'm curren
 </p>
 <br>
 
-![Le Giang Nam' Activity Graph](https://activity-graph.herokuapp.com/graph?username=rzngnam1402&custom_title=Le%20Giang%20Nam%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
-
 ------
